@@ -6,7 +6,7 @@ Com estes aprendizados, aprendi a trabalhar em todas etapas de projetos de desen
 isto é, você aprenderá do zero os conceitos de back-end e front-end. As aulas serão online e você receberá todo suporte técnico para conseguir se capacitar em uma
 das principais profissões do mercado.
 
-##Módulos
+## Módulos
 
 - Módulo Zero - Onboarding
 - Módulo I - Fundamentos
